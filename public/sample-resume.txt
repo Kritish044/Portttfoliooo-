@@ -1,0 +1,33 @@
+Kritish Raj Chalise
+Location: Kathmandu, Nepal
+GitHub: github.com/Kritish44 
+
+PROFESSIONAL SUMMARY
+Full-stack web developer with expertise in React, Node.js, and modern web technologies.
+Computer Science student passionate about building scalable applications and solving complex problems.
+Dedicated to writing clean, maintainable code and creating exceptional user experiences.
+
+SKILLS
+Frontend: React, TypeScript, Tailwind CSS, HTML/CSS, JavaScript
+Backend: Node.js, Express, RESTful APIs
+Databases: MongoDB, PostgreSQL, Redis
+Tools & Platforms: Git, GitHub, Docker, VS Code, Postman
+
+
+
+PROJECTS
+
+E-Commerce Platform | React, Node.js, MongoDB, Redis
+- Built full-stack e-commerce application with real-time inventory management
+- Implemented secure payment processing and user authentication
+- Deployed application serving 5,000+ transactions per month
+
+Real-Time Chat Application | React, Node.js, WebSocket, PostgreSQL
+- Developed real-time messaging system supporting 500+ concurrent users
+- Implemented end-to-end encryption for secure communications
+- Built admin dashboard for user and message management
+
+Task Management System | React, Tailwind CSS, Node.js, MongoDB
+- Created collaborative project management tool with drag-and-drop interface
+- Implemented real-time updates using WebSockets
+- Achieved 95% uptime with optimized database queries
